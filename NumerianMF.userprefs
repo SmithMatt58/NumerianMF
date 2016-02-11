@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NumerianMF/MainWindow.cs">
+    <Files>
+      <File FileName="NumerianMF/MainWindow.cs" Line="19" Column="28" />
+      <File FileName="NumerianMF/MysteryFluid.cs" Line="7" Column="3" />
+      <File FileName="NumerianMF/RNG.cs" Line="14" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

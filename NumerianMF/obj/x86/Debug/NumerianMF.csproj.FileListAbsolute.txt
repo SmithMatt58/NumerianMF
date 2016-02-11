@@ -1,0 +1,5 @@
+D:\STORAGE\Projects\NumerianMF\NumerianMF\bin\Debug\NumerianMF.exe
+D:\STORAGE\Projects\NumerianMF\NumerianMF\bin\Debug\NumerianMF.pdb
+D:\STORAGE\Projects\NumerianMF\NumerianMF\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STORAGE\Projects\NumerianMF\NumerianMF\obj\x86\Debug\NumerianMF.exe
+D:\STORAGE\Projects\NumerianMF\NumerianMF\obj\x86\Debug\NumerianMF.pdb
